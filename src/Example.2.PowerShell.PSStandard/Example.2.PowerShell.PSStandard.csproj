@@ -20,6 +20,6 @@
     <PackageReference Include="Lorem.Universal.Net" Version="4.0.80" />
 
     <!-- This package gives us some nice tools for working with networks -->
-    <PackageReference Include="IPNetwork2" Version="2.6.548" />
+    <PackageReference Include="IPNetwork2" Version="2.6.611" />
   </ItemGroup>
 </Project>
